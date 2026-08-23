@@ -1,0 +1,11 @@
+CREATE TABLE potatoes (
+    user_id TEXT PRIMARY KEY,
+    name TEXT NOT NULL,
+    type TEXT NOT NULL,
+    rarity TEXT NOT NULL,
+    power INTEGER NOT NULL,
+    crunch INTEGER NOT NULL,
+    luck INTEGER NOT NULL,
+    level INTEGER NOT NULL DEFAULT 1,
+    xp INTEGER NOT NULL DEFAULT 0
+);
