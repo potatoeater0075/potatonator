@@ -37,6 +37,12 @@ The Slack bot runs 24/7 on Hack Club Nest using a systemd service.
 
 The API is deployed separately using Cloudflare Workers.
 
+## AI Use Declaration
+
+I used AI as a development aid while creating Potatonator. I used it to help identify and troubleshoot errors in my code, explain technical concepts, and assist with writing and improving some sections of code. I also used AI for guidance with Git/GitHub, deployment and hosting setup, debugging, and writing project documentation such as the README and development log.
+
+I remained responsible for the project, tested the code myself, and made the final decisions about how the features and systems were implemented. AI was used as a tool to support my development process rather than to create the entire project for me.
+
 ## Project Structure
 
 ```text
